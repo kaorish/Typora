@@ -543,7 +543,7 @@ public class Test {
 
 输出结果：
 
-![image-20230519212217352](D:\My tepora note\Java期末重点.assets\image-20230519212217352.png)
+![image-20230519212217352](./Java期末重点.assets/image-20230519212217352.png)
 
 
 
